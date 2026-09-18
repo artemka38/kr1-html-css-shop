@@ -28,4 +28,5 @@
 ## Текущий статус
 
 Создана базовая структура проекта.
- https://artemka38.github.io/kr1-html-css-shop/
+
+ GitHub Pages: https://artemka38.github.io/kr1-html-css-shop/
